@@ -5,7 +5,7 @@
 //  Created by Hirotake Tomiyama on 2017/11/16.
 //  Copyright © 2017年 Hirotake Tomiyama. All rights reserved.
 //
-//aaaaaaaaaa
+
 import UIKit
 
 @UIApplicationMain
